@@ -1,0 +1,24 @@
+@font-face{
+    font-family: myfonts;
+    src: url(fonts/static/Raleway-Thin.ttf);
+}
+*{
+    background-color: silver;
+}
+h1{
+    text-align: center;
+    font-family: myfonts;
+    text-decoration-line: underline;
+    text-decoration-style:dashed ;
+    text-decoration-color: black ;
+}
+a{
+    text-decoration-color:blue ;
+}
+.parent{
+    text-align: center;
+}
+.child{
+    display: inline-block;
+    text-align: center;
+}

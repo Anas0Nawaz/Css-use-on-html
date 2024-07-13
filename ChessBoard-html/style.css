@@ -1,0 +1,14 @@
+body{
+    background: #a5a58d;
+}
+.text{
+    text-decoration: underline;
+    text-decoration-color: white ;
+    color: black;
+}
+.green{
+    background:lightgreen;
+}
+.white{
+    background-color: white;
+}

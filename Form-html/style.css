@@ -1,0 +1,35 @@
+*{
+    background-color:darkslategrey;
+}
+h1{
+    color: lightskyblue;
+}
+img{
+    border-radius: 50%;
+}
+p{
+    color: #f4d35e;
+}
+input,textarea{
+    color: #faf0ca;
+    background-color: rgb(27, 88, 125);
+}
+th{
+    color: cornsilk;
+    background-color:black ;
+}
+td{
+    color: #f4d35e;
+    background-color:rgba(41, 30, 30, 0.796);
+}
+#red{
+    color: red;
+    background: #000;
+}
+#green{
+    color: green;
+    background: #000;
+}
+a{
+    color: black;
+}

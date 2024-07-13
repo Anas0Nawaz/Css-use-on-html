@@ -1,0 +1,15 @@
+h1{
+    color: #fee440;
+}
+body{
+    background:#5c677d;
+}
+p{
+    color:#ecf8f8;
+}
+ul > li{
+    color:#00171f;
+}
+a{
+    color:goldenrod;
+}
